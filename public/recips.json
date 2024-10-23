@@ -1,0 +1,91 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co.com/8gymSww/ionela-mat-XFCc-SBDZbec-unsplash.jpg",
+        "name": "Spaghetti Bolognese",
+        "description": "A classic Italian pasta dish with rich meat sauce.",
+        "ingredients": [
+            "Pasta",
+            "Tomato",
+            "Beef",
+            "Garlic",
+            "Onion"
+        ],
+        "prep_time": "30",
+        "calories": 600
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co.com/10298Cn/ionela-mat-xnr0-OHpaz1-E-unsplash.jpg",
+        "name": "Chicken Curry",
+        "description": "A flavorful chicken curry with a blend of spices.",
+        "ingredients": [
+            "Chicken",
+            "Curry Powder",
+            "Onion",
+            "Garlic",
+            "Ginger"
+        ],
+        "prep_time": "45",
+        "calories": 450
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co.com/nnbFj8V/ionela-mat-xnr0-OHpaz1-E-unsplash.jpg",
+        "name": "Caesar Salad",
+        "description": "A crisp salad with creamy Caesar dressing and croutons.",
+        "ingredients": [
+            "Lettuce",
+            "Croutons",
+            "Parmesan",
+            "Caesar dressing"
+        ],
+        "prep_time": "15",
+        "calories": 250
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co.com/sbN9Tn0/ionela-mat-SOOJ4c-SHak-unsplash.jpg",
+        "name": "Grilled Salmon",
+        "description": "A healthy grilled salmon with lemon and herbs.",
+        "ingredients": [
+            "Salmon",
+            "Lemon",
+            "Olive Oil",
+            "Garlic",
+            "Rosemary"
+        ],
+        "prep_time": "20",
+        "calories": 400
+    },
+    {
+        "id": 5,
+        "image": "https://i.ibb.co.com/10298Cn/ionela-mat-xnr0-OHpaz1-E-unsplash.jpg",
+        "name": "Beef Tacos",
+        "description": "Soft tacos with spiced beef, fresh salsa, and cheese.",
+        "ingredients": [
+            "Beef",
+            "Taco shells",
+            "Cheese",
+            "Lettuce",
+            "Salsa"
+        ],
+        "prep_time": "25",
+        "calories": 500
+    },
+    {
+        "id": 6,
+        "image": "https://i.ibb.co.com/HB7HHjS/ionela-mat-SOOJ4c-SHak-unsplash.jpg",
+        "name": "Vegetable Stir Fry",
+        "description": "A quick and easy stir fry with mixed vegetables.",
+        "ingredients": [
+            "Broccoli",
+            "Carrot",
+            "Bell Pepper",
+            "Soy Sauce",
+            "Garlic"
+        ],
+        "prep_time": "20",
+        "calories": 350
+    }
+]
